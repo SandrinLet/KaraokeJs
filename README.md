@@ -16,5 +16,6 @@ Para construir este projeto, utilizei:
 1. Certifique-se de ter o [Node.js](https://nodejs.org/) instalado.
 2. Clone este repositório.
 3. No terminal, execute:
-   ```bash
+```bash
+   node karaoke.js
   
